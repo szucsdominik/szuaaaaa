@@ -1,0 +1,67 @@
+body {
+    background-image: url("/home/szucsdominik/Asztal/Új mappa/forras/img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg");
+    color: #4d0808;
+}
+.kutyaoldal{
+    background-color: rgba(255, 255, 255, 0.4);
+    width:70%;
+    padding:20pt;
+    background-position: center;
+    color: #4d0808;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+a {
+    color:#4d0808
+}
+
+h1 {
+    text-align: center;
+}
+
+
+p {
+    line-height: 1,5px;
+    text-indent: 1cm;
+}
+
+
+.minikep{
+    width: 400pt;
+    float: right;
+    margin-left: 20pt;
+    border: 3px solid;
+    border-color: #4d0808;
+
+}
+
+table {
+    margin-left: auto;
+    margin-right:auto;
+    border-collapse: collapse;
+}
+
+table td {
+    border:#4d0808 solid 1pt;
+    padding: 0.5rem;
+}
+
+.kepek{
+    text-align: center;
+    float: none;
+}
+.kep{
+    width: 280px;
+    vertical-align: middle;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border: 1pt #4d0808;
+    box-shadow: 3px 3px 10px #4d0808;
+    
+
+
+
+}
